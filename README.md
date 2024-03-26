@@ -2,13 +2,13 @@
 _____
 <h2>About me! 👤</h2>
 <ul> 
- <li>-Ethical Hacker💻</li>
+ <li> Ethical Hacker💻</li>
   
- <li>- Junior Pentester👨🏻‍💻</li>
+ <li> Junior Pentester👨🏻‍💻</li>
   
- <li>- Engineering student🏫</li>
+ <li> Engineering student🏫</li>
   
- <li> - I like to develop malware </li>
+ <li>  Malware developer </li>
 </ul>
 
 ______

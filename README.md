@@ -1,4 +1,4 @@
-### Hi, I'm Razee 👋
+### Hi, I'm Rxze 👋
 _____
 <h2>About me! 👤</h2>
 <ul> 
